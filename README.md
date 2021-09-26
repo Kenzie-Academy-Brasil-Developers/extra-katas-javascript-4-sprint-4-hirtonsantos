@@ -1,4 +1,4 @@
-# Extra: Katas de JavaScript 4
+<!-- # Extra: Katas de JavaScript 4
 
 ## Visão Geral
 
@@ -69,7 +69,7 @@ Os katas usarão a seguinte amostra de variáveis, que já estarão disponíveis
 17. Escreva uma função que use 'pop' para remover a última cidade de 'lotrCitiesArray e **retorne** o novo array. Lembre-se de também **adicionar os resultados à página**.
 18. Escreva uma função que usa 'push' para adicionar de volta, no final do array, a cidade de 'lotrCitiesArray' que foi removida no #17 e **retorne** o novo array. Lembre-se de também **adicionar os resultados à página**.
 19. Escreva uma função que usa 'shift' para remover a primeira cidade de 'lotrCitiesArray e **retorne** o novo array. Lembre-se de também **adicionar os resultados à página**.
-20. Escreva uma função que use 'unshift' para adicionar de volta, no começo do array, a cidade de 'lotrCitiesArray' que foi removida no #19 e **retorne** o novo array. Lembre-se de também **adicionar os resultados à página**.
+20. Escreva uma função que use 'unshift' para adicionar de volta, no começo do array, a cidade de 'lotrCitiesArray' que foi removida no #19 e **retorne** o novo array. Lembre-se de também **adicionar os resultados à página**. -->
 
 # Requisitos
 
