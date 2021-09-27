@@ -332,3 +332,13 @@ function kataBonus11(){
     return `Kata bonus 11 => ${lotrCitiesArray.sort().join(", ")}`
 }
 showResultsBonus(kataBonus11())
+
+function ordenacao(a,b){
+    return a.length - b.length
+}
+
+function kataBonus12(){
+    let array = lotrCitiesArray.sort(ordenacao)
+    return `Kata bonus 12 => ${array.join(", ")}`      
+}
+showResultsBonus(kataBonus12())
